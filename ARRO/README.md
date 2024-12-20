@@ -1,17 +1,17 @@
-# Proyecto ARRO
+# ARRO project
 
-Este es un proyecto para aprender y realizar pruebas automatizadas con Selenium.
+This is a project to learn and make automated tests with Selenium.
 
-## Requisitos
+## Requirements
 
 - Python 3.x
 - Selenium
 - WebDriver Manager
 
-## Instalación
+## Installation
 
-1. Clona el repositorio o descarga el proyecto.
-2. Instala las dependencias:
+1. Clone the repository or download the project.
+2. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
