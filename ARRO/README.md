@@ -1,6 +1,6 @@
-# ARRO project
+# ARRO Automated Testing Suite
 
-This is a project to learn and make automated tests with Selenium.
+Welcome to ARRO automated testing suite! This project is designed to ensure the reliability, functionality, and performance of the ARRO system through comprehensive and scalable automated test cases. Built with Selenium and pytest, it leverages the Page Object Model for maintainability and efficiency.
 
 ## Requirements
 
