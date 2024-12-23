@@ -2,7 +2,7 @@
 Importing credentials
 """
 from config.settings import USERNAME, PASSWORD
-from tests.log_in import log_in
+from tests.log_in import test_log_in
 
 def connect_to_service():
     """
@@ -14,4 +14,4 @@ def connect_to_service():
 
 if __name__ == "__main__":
     connect_to_service()
-    log_in(USERNAME,PASSWORD)
+    test_log_in(USERNAME,PASSWORD)
